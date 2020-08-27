@@ -1,0 +1,10 @@
+
+.icon-doc:before { content: '\e800'; } /* '' */
+.icon-print:before { content: '\e801'; } /* '' */
+.icon-search-1:before { content: '\e802'; } /* '' */
+.icon-users-1:before { content: '\e803'; } /* '' */
+.icon-lock:before { content: '\e809'; } /* '' */
+.icon-reply:before { content: '\f112'; } /* '' */
+.icon-moon:before { content: '\f186'; } /* '' */
+.icon-trash:before { content: '\f1f8'; } /* '' */
+.icon-address-card-o:before { content: '\f2bc'; } /* '' */
